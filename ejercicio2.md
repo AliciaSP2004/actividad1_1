@@ -29,7 +29,7 @@ En este párrafo puedes encontrar **información en negrita**, _información en 
 
 [Enlace a Office 365](https://m365.cloud.microsoft/)
 
-[Enlace fichero Markdown](../ejercicio1/Ejercicio1.md)
+[Enlace fichero Markdown](Ejercicio1.md)
 
 ![Imagen de ejemplo](<./imagenes/image1.jpg>)
 
