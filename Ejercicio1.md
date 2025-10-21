@@ -4,7 +4,7 @@ En este ejercicio se creará un repositorio local en Windows con dos archivos el
 ## Desarrollo del ejercicio
 Para crear el repositorio prueba2_Alicia de forma local en Windows lo primero que he hecho ha sido entrar en git bash y con he cd para ir al lugar adecuado donde crear el repositorio. Para crear el repositorio he utilizado el comando **mkdir prueba2_Alicia** tras lo cual he inicializado el repositorio con el comando **git init**.     
 
-![Paso 1](<./Imagenes/Ej1_Captura 1.png>) 
+![Paso 1](<./imagenes/Ej1_Captura 1.png>) 
 
 Tras tener el repositorio creado he entrado en él con el comando **cd prueba2_Alicia** y en el he creado dos archivos de texto utilizando el comando **echo “Nuevo archivo1”>archivo1.txt** para el primero y **echo “Nuevo archivo2”>archivo2.txt** para el segundo.  
 
