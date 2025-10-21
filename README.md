@@ -5,5 +5,5 @@
 
 - [Ejercicio1](./Ejercicio1.md)
 - [Ejercicio2](./ejercicio2.md)
-- [Ejercicio3](./ejercicio3)
-- [Ejercicio4](./ejercicio4)
+- [Ejercicio3](./ejercicio3.md)
+- [Ejercicio4](./ejercicio4.md)
