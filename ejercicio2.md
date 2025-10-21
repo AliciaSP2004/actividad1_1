@@ -31,7 +31,7 @@ En este párrafo puedes encontrar **información en negrita**, _información en 
 
 [Enlace fichero Markdown](../ejercicio1/Ejercicio1.md)
 
-![Imagen de ejemplo](<image1.jpg>)
+![Imagen de ejemplo](<./imagenes/image1.jpg>)
 
 |   Nombre  | Apellidos | Edad |
 |-----------|-----------|------|
